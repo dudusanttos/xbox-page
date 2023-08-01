@@ -8,7 +8,7 @@
 <p align="center">Landing Page</p>
 
 <p align="center">
-<img src="./screenshots/screenshot.png" />
+<img src="./screenshot/screenshot.png" />
 </p>
 
 
